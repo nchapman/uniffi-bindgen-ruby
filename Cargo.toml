@@ -1,0 +1,7 @@
+[workspace]
+members = [
+  "crates/ubrg_bindgen",
+  "crates/ubrg_runtime",
+  "crates/ubrg_testing",
+]
+resolver = "2"
